@@ -1,0 +1,7 @@
+python == 3.13.12
+numpy
+matplotlib
+jupyter
+ipykernel
+testbook
+pytest
